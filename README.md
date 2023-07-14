@@ -1,5 +1,5 @@
 ## 👋 Oi, eu sou @Tend3ncy/David Lucas, tenho 22 anos. 
-- 👀 Eu estou interessado em tudo, Css, Hmtl, Python e JavaScript.
+- 👀 Eu estou interessado em tudo, Css, Html, Python e JavaScript.
 - 🌱 Eu recentemente estou me focando mais em Css e Javascript mas vou colocar uns projetos basicos de Php.
 
 
